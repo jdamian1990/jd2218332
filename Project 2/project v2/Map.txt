@@ -1,0 +1,55 @@
+The BattleShip Game is a two player game the first to hit all targets wins
+
+There is a total of 10 ships to drop. 
+
+So Have fun and Good Luck 
+
+
+
+This is the map for the BattleShip Game Player 1: 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+
+
+This is the map for the BattleShip Game Player 2: 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+0 0 0 0 0 0 0 0 0 0 
+
+Remember first to hit all targets wins ;) 
